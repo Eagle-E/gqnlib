@@ -6,6 +6,7 @@
 #
 #	Adjust paths and strings to make it work in your own environment
 #
+#   Run this script in a notebook cell.
 #########################################################################
 
 
